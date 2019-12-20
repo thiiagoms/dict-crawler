@@ -5,7 +5,7 @@ Fala Dev! Tudo bem com você ?! Espero que esteja tudo nos "conformes" :smiley: 
   - Tornar a aplicação uma  API RestFul, seguindo os melhores padrões de programação (Se você não sabe o que é uma API, não se preocupe, você pode clicar [aqui](http://https://www.youtube.com/watch?v=vGuqKIRWosk "aqui") e conhecer um pouco mais sobre esse recurso maravilhoso, depois me conta o que achou! :thumbsup: )
 ### Instalando os requisitos do projeto.
 
-- Para não poluir o seu ambiente, recomendo criar um virtualenv ou subir um container (qualquer imagem Linux com Python já serve!). Em distros Debian *like* (Ubuntu, Mint, Debian, Deepin, etc), é necessário instalar o módulo venv do python3, para isso, em seu termina,  copie e cole ou simplesmente digite o seguinte comando:
+- Para não poluir o seu ambiente, recomendo criar um virtualenv ou subir um container (qualquer imagem Linux com Python já serve!). Em distros Debian *like* (Ubuntu, Mint, Debian, Deepin, etc), é necessário instalar o módulo venv do python3, para isso, em seu terminal,  copie e cole ou simplesmente digite o seguinte comando:
 
 ```
  sudo apt install python3-venv
